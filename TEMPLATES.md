@@ -4,5 +4,5 @@ These are templates for you to get started with Flow Modding. For Flow modding, 
 
 ## Download Templates
 
-Modding Template: [Download](/source.sb3)
-Texture Pack Template: [Download](/textures.zip)
+Modding Template: [Download](https://drive.google.com/drive/folders/1ml1CPlZwNMS8GV1KiRDaSv9vIlna2SvR?usp=sharing)<br>
+Texture Pack Template: [Download](https://drive.google.com/drive/folders/1ml1CPlZwNMS8GV1KiRDaSv9vIlna2SvR?usp=sharing)<br>
