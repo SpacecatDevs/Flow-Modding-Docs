@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [**Welcome!**](README.md)
 * [Templates](TEMPLATES.md)
