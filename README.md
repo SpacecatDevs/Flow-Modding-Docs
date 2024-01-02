@@ -1,2 +1,2 @@
-# Page
-
+# Welcome!
+We are very excited that you are here bacause it means you want to develop with Flow! Whether it's adding custom levels, applying a texture pack, or connecting to a private server, this guide will tell you everything you need to do that, and more! Texture packs and mods can only be installed on Windows. For Android, you have to host the game with your texture pack on GitHub Pages and use Median to create a custom APK that directs to your hosting, as the Android version of Flow is embedding the game from a website. In the actual Flow's case, the website is Newgrounds, but we are using GitHub for this.
